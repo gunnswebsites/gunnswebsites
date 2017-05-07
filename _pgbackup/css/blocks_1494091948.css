@@ -1709,7 +1709,6 @@ Version: 1.0
     padding-bottom: 60px;
 }
 
-
 .content-2-8 h1
 {
     font-weight: 600;
@@ -1724,7 +1723,7 @@ Version: 1.0
 
 .content-2-8 h1, .content-2-8 h3, .content-2-8 .lead, .content-2-8 p, .content-2-8 span
 {
-   color: ; 
+    color: #ffffff;
 }
 
 /*	CONTENT BLOCK 2-8 MEDIA QUERIES
@@ -4383,6 +4382,7 @@ Version: 1.0
     border: 1px solid;
     border-color: #e7e7e7;
 }
+
 
 .copyright-bar p
 {
