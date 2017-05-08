@@ -1723,7 +1723,7 @@ Version: 1.0
 
 .content-2-8 h1, .content-2-8 h3, .content-2-8 .lead, .content-2-8 p, .content-2-8 span
 {
-    color: #ffffff;
+    color: null;
 }
 
 /*	CONTENT BLOCK 2-8 MEDIA QUERIES
@@ -3638,8 +3638,9 @@ Version: 1.0
 {
     background: #2F4052;
     text-align: center;
-    padding: 50px;
+    padding: 30px;
 }
+
 
 .pricing-table-2 .price-block h2
 {
@@ -4382,7 +4383,6 @@ Version: 1.0
     border: 1px solid;
     border-color: #e7e7e7;
 }
-
 
 .copyright-bar p
 {

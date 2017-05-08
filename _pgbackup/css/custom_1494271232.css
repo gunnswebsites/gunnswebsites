@@ -1,0 +1,12 @@
+
+
+/* Put your custom styles here */
+
+@media only screen and (max-width:479px)
+{
+    .col-xs-10intent
+    {
+        padding-left: 30px;
+    }
+}
+
