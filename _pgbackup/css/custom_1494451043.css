@@ -2,10 +2,9 @@
 
 /* Put your custom styles here */
 
-.center
+.contactcentre
 {
-	margin: auto;
-    text-align: center;
+	margin: auto; 
 }
 
 @media only screen and (max-width:479px)
