@@ -4,7 +4,7 @@
 
 .center
 {
-    margin: auto;
+	margin: auto;
     text-align: center;
 }
 
@@ -14,11 +14,5 @@
     {
         padding-left: 30px;
     }
-}
-
-.backgroundjt
-{
-    background-image: url('../images/pc-185837_1280.jpg');
-    background-repeat: no-repeat;
 }
 
