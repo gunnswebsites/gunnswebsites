@@ -603,8 +603,9 @@ body
 
 .pad90
 {
-    padding-top: 90px !important;
+    padding-top: 350px !important;
 }
+
 
 .pad-bottom0
 {
@@ -793,7 +794,7 @@ body
 
 .min-height-800px
 {
-    min-height: 800px !important;
+    min-height: 900px !important;
 }
 
 @media only screen and (max-width : 767px)
