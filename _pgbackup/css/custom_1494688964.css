@@ -1,0 +1,24 @@
+
+
+/* Put your custom styles here */
+
+.center
+{
+    margin: auto;
+    text-align: center;
+}
+
+@media only screen and (max-width:479px)
+{
+    .col-xs-10intent
+    {
+        padding-left: 30px;
+    }
+}
+
+.backgroundjt
+{
+    background-image: url('../images/pc-185837_1280.jpg');
+    background-repeat: no-repeat;
+}
+
